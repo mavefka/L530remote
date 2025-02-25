@@ -8,6 +8,7 @@ pip install python-kasa
 ```
 
 Next, open the .py file and set these values for your own bulb. (TP-Link Cloud Account for authentication and the bulb’s local IP)
+
 ![image](https://github.com/user-attachments/assets/83799c75-4559-4d02-b472-40853caccb39)
 
 Now, open a terminal in the file's location and run the script using Python.
